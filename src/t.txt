@@ -1,0 +1,44 @@
+<div
+				style={{
+					position: "absolute",
+					right: "5px",
+					margin: "20% 0",
+					zIndex: "999",
+				}}>
+				<div
+					style={{
+						backgroundColor: "white",
+						borderRadius: "20px",
+						height: "20px",
+						width: "20px",
+						border: "1px solid white",
+						margin: "3px",
+					}}></div>
+				<div
+					style={{
+						backgroundColor: "white",
+						borderRadius: "20px",
+						height: "20px",
+						width: "20px",
+						border: "1px solid white",
+						margin: "3px",
+					}}></div>
+				<div
+					style={{
+						backgroundColor: "white",
+						borderRadius: "20px",
+						height: "20px",
+						width: "20px",
+						border: "1px solid white",
+						margin: "3px",
+					}}></div>
+				<div
+					style={{
+						backgroundColor: "white",
+						borderRadius: "20px",
+						height: "20px",
+						width: "20px",
+						border: "1px solid white",
+						margin: "3px",
+					}}></div>
+			</div>
